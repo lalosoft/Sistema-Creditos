@@ -1,0 +1,7 @@
+C:\Users\Jonathan\Documents\ProgramEdu\C#\Web\CapaPresentacion\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.dll
+C:\Users\Jonathan\Documents\ProgramEdu\C#\Web\CapaPresentacion\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\Jonathan\Documents\ProgramEdu\C#\Web\CapaPresentacion\CapaAccesoDatos\bin\Debug\CapaEntidades.dll
+C:\Users\Jonathan\Documents\ProgramEdu\C#\Web\CapaPresentacion\CapaAccesoDatos\bin\Debug\CapaEntidades.pdb
+C:\Users\Jonathan\Documents\ProgramEdu\C#\Web\CapaPresentacion\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan\Documents\ProgramEdu\C#\Web\CapaPresentacion\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.dll
+C:\Users\Jonathan\Documents\ProgramEdu\C#\Web\CapaPresentacion\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.pdb

@@ -1,0 +1,5 @@
+C:\Users\Jonathan\Documents\ProgramEdu\C#\Web\CapaPresentacion\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\Jonathan\Documents\ProgramEdu\C#\Web\CapaPresentacion\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\Jonathan\Documents\ProgramEdu\C#\Web\CapaPresentacion\CapaEntidades\obj\Debug\CapaEntidades.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan\Documents\ProgramEdu\C#\Web\CapaPresentacion\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\Jonathan\Documents\ProgramEdu\C#\Web\CapaPresentacion\CapaEntidades\obj\Debug\CapaEntidades.pdb
